@@ -6,8 +6,8 @@ import { MongooseModule } from '@nestjs/mongoose';
 import configs from 'src/configs';
 
 // DATABASE
-import { DatabaseOptionsModule } from 'src/common/database/database.options.module';
-import { DatabaseOptionsService } from 'src/common/database/services/database.options.service';
+import { DatabaseOptionsModule } from './database/database.options.module';
+import { DatabaseOptionsService } from './database/database.options.service';
 // MODULES
 import { DebuggerModule } from 'src/common/debugger/debugger.module';
 // import { HelperModule } from 'src/common/helper/helper.module';
