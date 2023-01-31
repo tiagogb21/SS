@@ -1,14 +1,14 @@
 {
-  "name": "ack-nestjs-boilerplate",
-  "version": "4.0.0",
-  "description": "Ack NestJs Boilerplate",
+  "name": "stock-sports-nestjs-boilerplate",
+  "version": "1.0.0",
+  "description": "Stock Sports NestJs Boilerplate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrechristikan/ack-nestjs-boilerplate.git"
+    "url": "https://https://github.com/tiagogb21/SS"
   },
   "author": {
-    "name": "andrechristikan",
-    "email": "ack@baibay.id"
+    "name": "tiagogb21",
+    "email": "tiagogb21@gmail.com"
   },
   "private": true,
   "license": "MIT",

@@ -53,6 +53,8 @@ export default async function (app: NestApplication) {
     ],
   });
 
+  console.log(document);
+
   SwaggerModule.setup(docPrefix, app, document, {
     explorer: true,
     customSiteTitle: docName,
